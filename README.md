@@ -41,20 +41,17 @@ void OpenGLWindow::setZoomFactor(double zoomFactor)
 
 Watch a brief video demonstrating the zoom functionality in action.
 
-<a href="https://github.com/UmeshEkhande/Shaders-Implementation-In_OpenGL/blob/main/Resources/zoom%20in%20and%20zoom%20out.mp4">
+<a href="https://youtu.be/6AYh69gFmtE">
   <img src="https://github.com/UmeshEkhande/Shaders-Implementation-In_OpenGL/blob/main/Resources/s3.png" alt="Zoom Demo" width="300" height="169">
 </a>
 
 
 **Video Description:**
-- Duration: [Video Duration]
-- Resolution: [Video Resolution]
 - Demonstrates zooming in and out of the solar system.
 - Shows the interactive controls for adjusting zoom levels.
 
 Click on the thumbnail above to view the full video.
 
-[![Zoom Demo](https://example.com/thumbnail.jpg)](https://example.com/full-video.mp4)
 
 ---
 
